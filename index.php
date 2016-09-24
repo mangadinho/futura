@@ -1,4 +1,4 @@
-<!Doctype html>
+﻿<!Doctype html>
           <!DOCTYPE html>
           <html>
           <head>
@@ -40,11 +40,13 @@
             			<li><a href="#">Вакансии</a></li>
             			<li><a href="#">Контакты</a></li>
             		</ul>
-            	</div>
+
             	<div class="row">
             		<div class="col-lg-7"></div>
             		<div class="col-lg-5"></div>
             	</div>
+         	</div>
+
             </header>
           </body>
           </html>
