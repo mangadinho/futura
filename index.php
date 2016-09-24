@@ -30,6 +30,21 @@
           	<title></title>
           </head>
           <body>
-          
+            <header>
+            	<div class="container">
+            		<ul>
+            			<li><a href="#">O компании</a></li>
+            			<li><a href="#">Новости</a></li>
+            			<li><a href="#">Каталог</a></li>
+            			<li><a href="#">Сертификаты</a></li>
+            			<li><a href="#">Вакансии</a></li>
+            			<li><a href="#">Контакты</a></li>
+            		</ul>
+            	</div>
+            	<div class="row">
+            		<div class="col-lg-7"></div>
+            		<div class="col-lg-5"></div>
+            	</div>
+            </header>
           </body>
           </html>
